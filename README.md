@@ -102,7 +102,9 @@ cd backend
 Start the backend server:
 
 ```bash
-npm run start
+npm start
+or
+npm run dev
 ```
 This will start your backend server and connect it to Firebase using the Firebase Admin SDK.
 
