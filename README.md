@@ -2,6 +2,10 @@
 
 This project implements a simple authentication system using React for the frontend and Firebase for both the frontend and backend. The application allows users to sign up, log in, and access a main app page, with user data stored in Firestore.
 
+## Backend with Node.js
+Firebase Admin SDK: The backend uses Node.js to run a server that interacts with Firebase through the Firebase Admin SDK. This SDK is used to manage Firebase services programmatically, such as authenticating users, accessing Firestore, and handling other backend functionalities.
+Express.js: (a popular Node.js web application framework), it runs on Node.js to handle HTTP requests and route them to different parts of the backend.
+
 ## Table of Contents
 
 - [Installation](#installation)
